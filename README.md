@@ -1,5 +1,5 @@
 # week1_homework
-file:///Users/alisonfunkhouser/Desktop/week1_homework/week1.html
+file:///Users/alisonfunkhouser/Desktop/week1_homework/index.html
 
 To complete this homeowrk I refactored the given index.html and style.css files to improve the code
 I made sure application's CSS selectors and properties are consolidated and organized to follow semantic structure, update to make sure all links function properly, and made comments to to css file.
